@@ -1,2 +1,2 @@
-# camouflage
-Password Strength Tester
+# hornet
+The dictionary was compiled by LethargicLeprechaun on Github, 
